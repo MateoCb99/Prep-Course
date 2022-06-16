@@ -1,6 +1,6 @@
 // No cambies los nombres de las funciones.
 // Prueba commit
-
+// Prueba 2
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
