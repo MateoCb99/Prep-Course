@@ -1,0 +1,47 @@
+body{
+    background-image: url(/08-HTML/homework/img/thumb-1920-953202.jpg);
+    ;
+    padding: 130px;
+    padding-top: 60px;
+    list-style: none;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    color: aquamarine;
+    text-align: center;
+}
+img{
+    width: 400px;
+    
+
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(29, 202, 202);
+    padding: 50px;
+    border: 2px solid red;
+    text-align: center;
+    margin-left: 230px;
+    
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    border-left: 400px;
+    text-align: center;
+    
+}
+#divClass{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+ul{
+    list-style: none;
+}
